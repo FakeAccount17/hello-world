@@ -7,3 +7,6 @@ function cool_func() {
   let c = 'Blablabla';
   return c;
 }
+
+let d = cool_func();
+console.log(d);
